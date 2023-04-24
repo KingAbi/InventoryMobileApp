@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string-array name="products">
+        <item>CEMENT</item>
+        <item>POSHO</item>
+        <item>BEANS</item>
+        <item>IRONSHEETS</item>
+        <item>LIME</item>
+    </string-array>
+</resources>
